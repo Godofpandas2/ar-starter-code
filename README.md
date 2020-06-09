@@ -4,7 +4,7 @@
 - Fork and clone this repo 
 - Go through each file and practice explaining what is happening in every file
 - Create migrations for two models:
-    - A `users` table with the following attributes: name, email, age
+    - A `users` table with the following attributes: name, email, age 
     - A `tasks` table with the following attributes: title, description, category, done (this should be a boolean value), due_date
     - A task should also belong_to a user 
 - Set up the two models (these are files that should be added under the app folder). 
